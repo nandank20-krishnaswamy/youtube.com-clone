@@ -67,16 +67,10 @@ git clone https://github.com/yourusername/youtube-clone.git
 
 🌐 Integrate backend/API for real data
 
-
-
 👨‍💻 Author
-
-Nandan K
+ Nandan K
 🎓 Don Bosco Institute of Technology
-💻 GitHub: 
-
-
-
+💻 GitHub: nandank20-krishnaswamy 
 
 🏆 Acknowledgment
 
